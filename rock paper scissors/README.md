@@ -17,5 +17,6 @@ Python 3.7+
 
 ## Running the Project
 to run the projcet: 
-
-* python src/game.py
+```
+python src/game.py
+```
