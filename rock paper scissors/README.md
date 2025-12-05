@@ -1,5 +1,21 @@
-#Project Based Python 
+# Rock Paper Scissors Game
 
-Project Based Python is a collection of Python projects for practicing python and level up, each with a project description, template code, difficulty level, and solutions
+This project is a Python-based implementation of the popular game "Rock, Paper, Scissors". It provides the opportunity to play the game against a computer, which makes its moves based on random choice. The project is a meaningful exercise for students who already grasp the Python basics and want to dive into something more challenging and hands-on.
 
 
+## Project Structure
+
+rock-paper-scissors/
+│
+├── src/
+│   ├── game.py - the main game class
+│
+└── README.md
+
+## Requirements
+Python 3.7+
+
+## Running the Project
+to run the projcet: 
+
+** python src/game.py
