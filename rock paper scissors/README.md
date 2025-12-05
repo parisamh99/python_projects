@@ -20,3 +20,10 @@ to run the projcet:
 ```
 python src/game.py
 ```
+
+## Learning Outcomes
+Upon the successful completion of this project, students will have gained:
+1.A better understanding of Python classes and object-oriented programming (OOP).
+2.Experience with Python’s random module.
+3.A deeper understanding of game loop and user interaction.
+4.Experience with troubleshooting and problem-solving their own code
