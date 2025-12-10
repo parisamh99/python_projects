@@ -14,7 +14,9 @@ README.md:documentaion for project solution
 2.Streamlit
 3.NLTK (Natural Language Toolkit)
 
-```pip install nltk```
+```
+pip install nltk
+```
 
 After installing NLTK, you need to download the 'words' corpus. Run Python and type these commands:
 
@@ -25,12 +27,16 @@ nltk.download('words')
 
 then install streamlit using pip:
 
-```pip install streamlit```
+```
+pip install streamlit
+```
 
 
 ## how to run:
 
-```streamlit run dashboard.py```
+```
+streamlit run dashboard.py
+```
 
 
 
