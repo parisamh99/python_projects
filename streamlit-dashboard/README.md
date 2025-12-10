@@ -18,8 +18,10 @@ README.md:documentaion for project solution
 
 After installing NLTK, you need to download the 'words' corpus. Run Python and type these commands:
 
-```import nltk
-nltk.download('words')```
+```
+import nltk
+nltk.download('words')
+```
 
 then install streamlit using pip:
 
