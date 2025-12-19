@@ -25,13 +25,6 @@ Object-Oriented design using a Tictactoe class
 
 The board uses positions 1 to 9:
 
-1 | 2 | 3
----------
-4 | 5 | 6
----------
-7 | 8 | 9
-
-
 Players enter a number (1–9) to place their mark.
 
 The game continues until:
@@ -41,6 +34,7 @@ A player gets 3 in a row, or
 The board is full (Draw).
 
 ## Getting Started
+
 ### Prerequisites
 Python 3.x installed on your system
 
